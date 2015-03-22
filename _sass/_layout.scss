@@ -171,11 +171,14 @@
     margin-left: 0;
     list-style: none;
 
+    > li:not(:last-child) {
+        border-bottom: 1px solid #B6B6B6;
+    }
+
     > li {
         padding-top: $spacing-unit * 4; 
         padding-bottom: $spacing-unit * 4; 
         margin-bottom: $spacing-unit;
-        border-bottom: 1px solid #B6B6B6;
 
         // Title
         > h2 {

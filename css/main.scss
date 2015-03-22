@@ -27,6 +27,7 @@ $grey-color-dark:  darken($grey-color, 25%);
 
 $footer-icon-color: #FFF;
 $footer-link-color: #DCEDC8;
+
 // Width of the content area
 $content-width:    800px;
 $hortizontal-line-width:   180px;
@@ -34,7 +35,9 @@ $hortizontal-line-width:   180px;
 $on-palm:          600px;
 $on-laptop:        800px;
 
-
+// Get started button colors
+$get-started-font-color: #E6E6E6;
+$get-started-background-color: #00796B;
 
 // Using media queries with like this:
 // @include media-query($on-palm) {

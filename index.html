@@ -5,16 +5,23 @@ layout: default
 <div class="home">
 
   <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <h2> {{ post.title }} </h2>
+  {% for post in site.posts %}
+    {% if post.content contains 'img' %}
+        <!--  image posts-->
+        <li class="clear-margin-padding">
+          <p>{{ post.content }}</p>
+        </li>
 
-        <hr>
-
-        <p>{{ post.content }}</p>
-
-      </li>
-    {% endfor %}
+      {% else %}
+      
+        <!-- Usual post -->
+        <li>
+          <h2> {{ post.title }} </h2>        
+          <hr>
+          <p>{{ post.content }}</p>
+        </li>
+    {% endif %}
+  {% endfor %}
   </ul>
 
 </div>

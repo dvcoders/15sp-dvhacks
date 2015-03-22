@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Welcome"
+title:  "Sign up"
 date:   2015-03-21 20:05:31
 categories: jekyll update
 ---
-Proin pulvinar turpis eu risus luctus vestibulum. Quisque vitae enim a diam feugiat iaculis. Sed elit sem, commodo vitae elit a, blandit condimentum orci. Cras aliquet feugiat urna a tincidunt. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi quis dui at enim finibus venenatis non in odio. Etiam turpis purus, volutpat ac scelerisque in, elementum et mauris. Cras sit amet nisi eu purus interdum aliquam sed sit amet nunc. Aliquam erat volutpat. Praesent lacinia, velit in ornare iaculis, leo elit accumsan nibh, nec porttitor velit libero vitae ligula. Integer consectetur lectus euismod metus ultricies congue. Donec rhoncus magna ac tincidunt tincidunt. Quisque eget mollis nibh.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam porttitor ipsum est, quis commodo eros vestibulum ac. Aliquam quis ex tellus. Suspendisse laoreet rhoncus risus, sed tincidunt neque vehicula et. Maecenas ut nulla nec felis hendrerit convallis in sagittis ante. Nullam fringilla ante justo, at ultrices tellus ultricies sit amet. Suspendisse cursus pulvinar urna, vel sagittis sem aliquam at. Vivamus quis egestas ipsum. Sed ac erat sit amet nunc egestas lacinia. Ut iaculis est id elit malesuada, quis euismod ante eleifend. Vestibulum facilisis sollicitudin nisl, ac luctus urna pharetra non. Mauris aliquam dui non mi ornare commodo. Mauris laoreet imperdiet mi, non pretium ex aliquam et. Nulla nec sollicitudin metus. Cras quis bibendum eros, non consequat sapien. Cras metus metus, ornare non egestas sit amet, interdum eu nisi.
 
 
 <!-- JAKE : DO NOT REMOVE THIS IS A TEMPLATE AND CAN BE USED FOR REFERENCE. -->

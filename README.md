@@ -1,10 +1,10 @@
 ## DVHACKS
-Diablo Valley College is throwing it's first ever hackathon! This is an event where you can hack together anything you can dream of, hopefully learning new programming skills along the way, and present your finished product at the end. There will me workshops, mentors, and other resources to help you build the coolest software!
+Diablo Valley College is throwing its first ever hackathon! This is an event where you can hack together anything you can dream of. Hopefully you will learn new programming skills along the way, and present your finished product at the end of the event. There will be workshops, mentors, and other resources to help you build cool software!
 
 ## FAQ
 #### Who can attend?
 
-All current diablo valley students are welcome, as well as any other college student wanting to attend.
+All current Diablo Valley students are welcome, as well as any other college student who want to attend.
 
 #### When is it?
 
@@ -26,6 +26,6 @@ A computer, chargers, and any hardware you want to hack on (we'll also be provid
 
 Absolutely, people go to hackathons without teams all the time. We'll have some time at the beginning of people to find a team.
 
-#### I've never been to a hackathon before. Is that ok?
+#### I've never been to a hackathon before. Is that OK?
 
-That's more than ok. Hackathons are the perfect time to learn new skills, and we'll have plenty of on-site mentors and workshops specifically for new hackers.
+That's more than OK. Hackathons are the perfect time to learn new skills, and we'll have plenty of on-site mentors and workshops specifically for new hackers.

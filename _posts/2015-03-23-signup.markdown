@@ -1,7 +1,0 @@
----
-layout: post
-title:  "Sign up"
-date:   2015-03-20 00:00:00
-position: 2
----
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam porttitor ipsum est, quis commodo eros vestibulum ac. Aliquam quis ex tellus. Suspendisse laoreet rhoncus risus, sed tincidunt neque vehicula et. Maecenas ut nulla nec felis hendrerit convallis in sagittis ante. Nullam fringilla ante justo, at ultrices tellus ultricies sit amet. Suspendisse cursus pulvinar urna, vel sagittis sem aliquam at. Vivamus quis egestas ipsum. Sed ac erat sit amet nunc egestas lacinia. Ut iaculis est id elit malesuada, quis euismod ante eleifend. Vestibulum facilisis sollicitudin nisl, ac luctus urna pharetra non. Mauris aliquam dui non mi ornare commodo. Mauris laoreet imperdiet mi, non pretium ex aliquam et. Nulla nec sollicitudin metus. Cras quis bibendum eros, non consequat sapien. Cras metus metus, ornare non egestas sit amet, interdum eu nisi.

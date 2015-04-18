@@ -1334,3 +1334,8 @@
 					margin-left: 0;
 					padding: 0;
 				}
+
+small {
+	font-size: 10px;
+	font-weight: 100;
+}

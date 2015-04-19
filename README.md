@@ -8,7 +8,7 @@ All current Diablo Valley students are welcome, as well as any other college stu
 
 #### When is it?
 
-April 24th and April 25th, schedule details can be found below. The event is not continuous, so we will be stopping on the 24th and starting in the morning of the 25th.
+May 1st and May 2nd, schedule details can be found below. The event is not continuous, so we will be stopping on the 1st and starting in the morning of the 2nd.
 
 #### How much does it cost?
 

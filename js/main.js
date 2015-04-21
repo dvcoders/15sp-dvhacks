@@ -16,4 +16,6 @@ jQuery(document).ready(function($){
 			}
 		});
 	});
+
+	// Fetch data from Google Calendar for DVHacks event
 });
